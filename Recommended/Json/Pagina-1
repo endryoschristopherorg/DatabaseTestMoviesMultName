@@ -16,7 +16,7 @@
         "title": "SpickLegends: Resumido",
         "video": "Breve",
         "vote_average": 9.8,
-        "link_view" : "false",
+        
         "vote_count": 8953
         },
         {
@@ -33,7 +33,7 @@
             "title": "Gato de botas 2",
             "video": "Breve",
             "vote_average": 8.6,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 1981
         },
         {
@@ -49,7 +49,7 @@
             "release_date": "2022-12-14",
             "title": "Avatar: O Caminho da Água",
             "video": true,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 4330
             
         },
@@ -69,7 +69,7 @@
             "title": "Noite Violenta",
             "video": false,
             "vote_average": 7.7,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 948
         },
         {
@@ -86,7 +86,7 @@
             "title": "M3GAN",
             "video": false,
             "vote_average": 7,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 305
         },
         {
@@ -103,7 +103,7 @@
             "title": "Troll",
             "video": false,
             "vote_average": 6.7,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 1026
         },
         {
@@ -120,7 +120,7 @@
             "title": "Encanto at the Hollywood Bowl",
             "video": false,
             "vote_average": 6.5,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 18
         },
         {
@@ -137,7 +137,7 @@
             "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
             "video": false,
             "vote_average": 7.1,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 9180
         },
         {
@@ -154,7 +154,7 @@
             "title": "Glass Onion: A Knives Out Mystery",
             "video": false,
             "vote_average": 7.1,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 2764
         },
         {
@@ -171,7 +171,7 @@
             "title": "Black Adam",
             "video": false,
             "vote_average": 7.2,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 3749
         },
         {
@@ -188,7 +188,7 @@
             "title": "The Enforcer",
             "video": false,
             "vote_average": 6.3,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 49
         },
         {
@@ -205,7 +205,7 @@
             "title": "The Woman King",
             "video": false,
             "vote_average": 7.8,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 1065
         },
         {
@@ -222,7 +222,7 @@
             "title": "The Last Client",
             "video": false,
             "vote_average": 7.3,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 24
         },
         {
@@ -239,7 +239,7 @@
             "title": "Black Panther: Wakanda Forever",
             "video": false,
             "vote_average": 7.5,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 1647
         },
         {
@@ -256,7 +256,7 @@
             "title": "Roald Dahl's Matilda the Musical",
             "video": false,
             "vote_average": 6.8,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 353
         },
         {
@@ -273,7 +273,7 @@
             "title": "High Heat",
             "video": false,
             "vote_average": 4.9,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 22
         },
         {
@@ -290,7 +290,7 @@
             "title": "The Pale Blue Eye",
             "video": false,
             "vote_average": 7.1,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 694
         },
         {
@@ -307,7 +307,7 @@
             "title": "The Big 4",
             "video": false,
             "vote_average": 6.8,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 79
         },
         {
@@ -324,7 +324,7 @@
             "title": "Prey for the Devil",
             "video": false,
             "vote_average": 7.2,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 393
         },
         {
@@ -341,7 +341,7 @@
             "title": "Savage Salvation",
             "video": false,
             "vote_average": 5.4,
-            "link_view" : "false",
+                        "play" : false,
             "vote_count": 34
         },
         {
@@ -358,6 +358,7 @@
             "title": "Sniper: The White Raven",
             "video": false,
             "vote_average": 7.7,
+            "play" : false,
             "vote_count": 223
         },
         {
@@ -374,6 +375,7 @@
             "title": "Top Gun: Maverick",
             "video": false,
             "vote_average": 8.3,
+            "play" : false,
             "vote_count": 5692
         },
         {
@@ -390,6 +392,7 @@
             "title": "Avatar: The Deep Dive - A Special Edition of 20/20",
             "video": false,
             "vote_average": 6.6,
+            "play" : false,
             "vote_count": 9
         },
         {
@@ -406,6 +409,7 @@
             "title": "One Way",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 66
         },
         {
@@ -422,6 +426,7 @@
             "title": "The Minute You Wake Up Dead",
             "video": false,
             "vote_average": 5.6,
+            "play" : false,
             "vote_count": 32
         },
         {
@@ -438,6 +443,7 @@
             "title": "Abandoned",
             "video": false,
             "vote_average": 6.4,
+            "play" : false,
             "vote_count": 165
         },
         {
@@ -454,6 +460,7 @@
             "title": "Smile",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 1481
         },
         {
@@ -470,6 +477,7 @@
             "title": "Monstrous",
             "video": false,
             "vote_average": 6.2,
+            "play" : false,
             "vote_count": 169
         },
         {
@@ -486,6 +494,7 @@
             "title": "Women in Fury",
             "video": false,
             "vote_average": 4.4,
+            "play" : false,
             "vote_count": 16
         },
         {
@@ -502,6 +511,7 @@
             "title": "Inspector Sun and the Curse of the Black Widow",
             "video": false,
             "vote_average": 7.1,
+            "play" : false,
             "vote_count": 49
         },
         {
@@ -518,6 +528,7 @@
             "title": "Spider-Man: No Way Home",
             "video": false,
             "vote_average": 8,
+            "play" : false,
             "vote_count": 16423
         },
         {
@@ -534,6 +545,7 @@
             "title": "Project Gemini",
             "video": false,
             "vote_average": 5.6,
+            "play" : false,
             "vote_count": 211
         },
         {
@@ -550,6 +562,7 @@
             "title": "Me contro Te: Il film - Persi nel tempo",
             "video": false,
             "vote_average": 8,
+            "play" : false,
             "vote_count": 41
         },
         {
@@ -566,6 +579,7 @@
             "title": "Blowback",
             "video": false,
             "vote_average": 6.2,
+            "play" : false,
             "vote_count": 34
         },
         {
@@ -582,6 +596,7 @@
             "title": "Pinocchio",
             "video": false,
             "vote_average": 6.6,
+            "play" : false,
             "vote_count": 1245
         },
         {
@@ -598,6 +613,7 @@
             "title": "Jurassic World Dominion",
             "video": false,
             "vote_average": 6.9,
+            "play" : false,
             "vote_count": 4260
         },
         {
@@ -614,6 +630,7 @@
             "title": "All My Friends Hate Me",
             "video": false,
             "vote_average": 6.2,
+            "play" : false,
             "vote_count": 54
         },
         {
@@ -630,6 +647,7 @@
             "title": "Polar",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 18
         },
         {
@@ -646,6 +664,7 @@
             "title": "Disenchanted",
             "video": false,
             "vote_average": 7,
+            "play" : false,
             "vote_count": 688
         },
         {
@@ -662,6 +681,7 @@
             "title": "Lyle, Lyle, Crocodile",
             "video": false,
             "vote_average": 7.7,
+            "play" : false,
             "vote_count": 282
         },
          {
@@ -678,6 +698,7 @@
             "title": "Mal de ojo",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 121
         },
         {
@@ -694,6 +715,7 @@
             "title": "Girl at the Window",
             "video": false,
             "vote_average": 4.9,
+            "play" : false,
             "vote_count": 13
         },
         {
@@ -710,6 +732,7 @@
             "title": "My Name Is Vendetta",
             "video": false,
             "vote_average": 6.7,
+            "play" : false,
             "vote_count": 307
         },
         {
@@ -726,6 +749,7 @@
             "title": "Lesson Plan",
             "video": false,
             "vote_average": 6.3,
+            "play" : false,
             "vote_count": 88
         },
         {
@@ -742,6 +766,7 @@
             "title": "Detective Knight: Rogue",
             "video": false,
             "vote_average": 5.9,
+            "play" : false,
             "vote_count": 41
         },
         {
@@ -758,6 +783,7 @@
             "title": "A Frozen Rooster",
             "video": false,
             "vote_average": 8.1,
+            "play" : false,
             "vote_count": 180
         },
         {
@@ -774,6 +800,7 @@
             "title": "Nanatsu no Taizai: Ensa no Edinburgh - Part 1",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 6
         },
         {
@@ -790,6 +817,7 @@
             "title": "The Key Game",
             "video": false,
             "vote_average": 5.7,
+            "play" : false,
             "vote_count": 25
         },
         {
@@ -806,6 +834,7 @@
             "title": "Terrifier 2",
             "video": false,
             "vote_average": 7,
+            "play" : false,
             "vote_count": 903
         },
         {
@@ -822,6 +851,7 @@
             "title": "Guillermo del Toro's Pinocchio",
             "video": false,
             "vote_average": 8.4,
+            "play" : false,
             "vote_count": 1584
         },
         {
@@ -838,6 +868,7 @@
             "title": "Devotion",
             "video": false,
             "vote_average": 6.8,
+            "play" : false,
             "vote_count": 60
         },
         {
@@ -854,6 +885,7 @@
             "title": "Strange World",
             "video": false,
             "vote_average": 6.6,
+            "play" : false,
             "vote_count": 668
         }
     ],
