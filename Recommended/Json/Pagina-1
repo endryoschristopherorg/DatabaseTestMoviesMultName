@@ -15,6 +15,7 @@
         "release_date": "2022-12-30",
         "title": "SpickLegends: Resumido",
         "video": "https://google.com",
+        "visible" : false,
         "vote_average": 9.8,
         "play" : false,
         "vote_count": 8953
