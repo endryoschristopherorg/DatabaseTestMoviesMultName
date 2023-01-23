@@ -11,7 +11,7 @@
     "Category": "Animação, Ação, Aventura, Comédia, Família, Fantasia",
     "Quality": "",
     "Poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pSr0JjkI9iM1Yxe9cqrS6YBonAA.jpg",
-    "Backtop": "https://image.tmdb.org/t/p/w500/iBEs4PnQLkL4BbsAGvsuBgeTCM3.jpg",
+    "Backtop": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
     "Youtube": "https://www.youtube.com/embed/pRtbMGFxgZI",
     "Note": "8.6",
     "Origin": "USA",
@@ -24,9 +24,7 @@
     "Actors": "Tommy Swerdlow, Joel Crawford, Paul Fisher, Tom Wheeler",
     "ViewSite": "",
     "Disponible" : "false",
-    "Players": [
-        { "title": "Multchub", "lang": "Dublado", "url": "https://streamtape.com/e/PxOzl2OjkJcxxe", "type": "multchub" }
-    ]
+    "Players": ""
 },
 {
     "Type": "Filmes",
@@ -38,7 +36,7 @@
     "Category": "Ficção científica, Terror, Comédia",
     "Quality": "",
     "Poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg",
-    "Backtop": "https://image.tmdb.org/t/p/w500/iBEs4PnQLkL4BbsAGvsuBgeTCM3.jpg",
+    "Backtop": "https://image.tmdb.org/t/p/w500/q2fY4kMXKoGv4CQf310MCxpXlRI.jpg",
     "Youtube": "https://www.youtube.com/embed/pRtbMGFxgZI",
     "Note": "7.1",
     "Origin": "USA",
@@ -51,9 +49,7 @@
     "Actors": "Akela Cooper, Gerard Johnstone, James Wan",
     "ViewSite": "",
     "Disponible" : "false",
-    "Players": [
-        { "title": "Multchub", "lang": "Dublado", "url": "https://streamtape.com/e/PxOzl2OjkJcxxe", "type": "multchub" }
-    ]
+    "Players": ""
 }
 
 
