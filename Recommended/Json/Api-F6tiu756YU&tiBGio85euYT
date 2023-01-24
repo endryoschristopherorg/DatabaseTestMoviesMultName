@@ -1,1135 +1,407 @@
 {
-  "status": "success",
-  "version": "2.0bd12",
-  "data": [
+  "page": 1,
+  "results": [
     {
-      "type": "movies",
-      "title": "Ruído",
-      "number" : "0",
-      "autor": "1",
-      "post_id": "164261",
-      "description": "Em busca da filha desaparecida, uma mulher encontra uma rede de apoio e conhece outras mulheres que tiveram suas vidas destruídas pela violência.",
-      "permalink": "movies",
-      "homepage": "movies-view-play.html",
-      "category": "Drama, Lançamentos",
-      "imdb": "tt11306932",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/pMyNl3NlZx1CXgbrCuSiWkWdp9D.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iBEs4PnQLkL4BbsAGvsuBgeTCM3.jpg",
-      "youtube": "https://www.youtube.com/embed/pRtbMGFxgZI",
-      "imdbRating": "6.7",
-      "imdbVotes": "306",
-      "rated": "TV-MA",
-      "Country": "Argentina",
-      "tmdb": "960519",
-      "original": "Ruido",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "7.227",
-      "vote_count": "11",
-      "runtime": "1h, 45min",
-      "cast": "Julieta Egurrola, Teresa Ruiz, Adrián Vázquez, Arturo Beristáin, Pedro de Tavira, Mariana Giménez,",
-      "dir": "Natalia Beristáin,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/jnndktdl18353wy",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/PxOzl2OjkJcxxe",
-          "type": "stream"
-        }
-      ]
+      "adult": false,
+      "backdrop_path": "/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751,
+        14
+      ],
+      "id": 315162,
+      "original_language": "pt",
+      "original_title": "Gato de Botas: O Último Desejo",
+      "overview": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. ",
+      "popularity": 8118.687,
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "release_date": "2022-12-07",
+      "title": "Gato de Botas: O Último Desejo",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 2444
     },
     {
-      "type": "movies",
-      "title": "Vale do Medo",
-      "autor": "1",
-      "post_id": "164260",
-      "description": "Em um vídeo que supostamente contém espíritos, Kanon fica chocada ao ver uma aluna que se parece exatamente com ela.",
-      "permalink": "https://supercine.tv/filmes/854006-vale-do-medo/",
-      "homepage": "",
-      "category": "Lançamentos, Terror",
-      "imdb": "tt15458866",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v5647AfhXyuJ6nVvLyfjJV89yss.jpg",
-      "youtube": "",
-      "imdbRating": "4.7",
-      "imdbVotes": "173",
-      "rated": "Not Rated",
-      "Country": "Japan",
-      "tmdb": "854006",
-      "original": "牛首村",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "5.3",
-      "vote_count": "10",
-      "runtime": "1h, 55min",
-      "cast": "Kōki, Riku Hagiwara, Keiko Horiuchi, Rinka Otani, Haruka Imou, Akaji Maro, Satoru Matsuo, Fumiya Takahashi, Naoki Tanaka, Satoru Date,",
-      "dir": "Takashi Shimizu,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/gll4ph-qd3pk832",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/kLowbbKbZDUOgjj",
-          "type": "stream"
-        }
-      ]
+      "adult": false,
+      "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 536554,
+      "original_language": "pt",
+      "original_title": "M3GAN",
+      "overview": "Uma brilhante fabricante de brinquedos usa inteligência artificial para desenvolver M3GAN, uma boneca realista programada para se relacionar emocionalmente com sua sobrinha recém-órfã. ",
+      "popularity": 7170.326,
+      "poster_path": "/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg",
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 430
     },
     {
-      "type": "movies",
-      "title": "Gato de Botas 2: O Último Pedido",
-      "autor": "1",
-      "post_id": "164245",
-      "description": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
-      "permalink": "https://supercine.tv/filmes/315162-gato-de-botas-2-o-ultimo-pedido/",
-      "homepage": "",
-      "category": "Animação, Aventura, Família, Fantasia, Lançamentos",
-      "imdb": "tt3915174",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/65NBNqJiaHeCmqDqkCmrRplJXw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-      "youtube": "https://www.youtube.com/embed/QAcn7cWm_hc",
-      "imdbRating": "7.8",
-      "imdbVotes": "20745",
-      "rated": "PG",
-      "Country": "USA",
-      "tmdb": "315162",
-      "original": "Puss in Boots: The Last Wish",
-      "tagline": "Diga hola para seus amiguinhos.",
-      "year": "2022",
-      "vote_average": "8.634",
-      "vote_count": "1791",
-      "runtime": "1h, 43min",
-      "cast": "Antonio Banderas, Salma Hayek, Harvey Guillén, Wagner Moura, Florence Pugh, Olivia Colman, Ray Winstone, Samson Kayo, John Mulaney, Da'Vine Joy Randolph,",
-      "dir": "Joel Crawford, Januel Mercado,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/5zzxlsd5gnz3q3l",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/4oVV1Y4KRlCKPG0",
-          "type": "stream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
-      "title": "A Luz do Demônio",
-      "autor": "1",
-      "post_id": "164243",
-      "description": "Irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.",
-      "permalink": "https://supercine.tv/filmes/676547-a-luz-do-demonio/",
-      "homepage": "",
-      "category": "Lançamentos, Terror, Thriller",
-      "imdb": "tt9271672",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7dm64SW5L5CCg47kAEAcdCGaq5i.jpg",
-      "youtube": "https://www.youtube.com/embed/0C_qLS1HcVU",
-      "imdbRating": "5.2",
-      "imdbVotes": "6237",
-      "rated": "PG-13",
-      "Country": "USA",
-      "tmdb": "676547",
-      "original": "Prey for the Devil",
-      "tagline": "Alguns exorcistas nascem.",
-      "year": "2022",
-      "vote_average": "6.922",
-      "vote_count": "185",
-      "runtime": "1h, 33min",
-      "cast": "Jacqueline Byers, Colin Salmon, Christian Navarro, Lisa Palfrey, Nicholas Ralph, Ben Cross, Virginia Madsen, Tom Forbes, Velizar Binev, Owen Davis,",
-      "dir": "Daniel Stamm, Asya Chakarova, Kristina Sakizli, Ioan Banzourkov, Kristiyan Lovrich, Tsvetelina Mateeva,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/6qq8kh0y7ld5gdg",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/Xy1D49eM7VIDbqW",
-          "type": "stream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
-      "title": "Glass Onion: Um Mistério Knives Out",
-      "autor": "1",
-      "post_id": "164242",
-      "description": "O famoso detetive Benoit Blanc vai à Grécia para desvendar um mistério que envolve um bilionário e seu eclético círculo de amizades.",
-      "permalink": "https://supercine.tv/filmes/661374-glass-onion-um-misterio-knives-out/",
-      "homepage": "https://www.netflix.com/br/title/81458416",
-      "category": "Comédia, Lançamentos, Mistério, Thriller",
-      "imdb": "tt11564570",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/lsN1wAbqCvUPKEhkEI9pQSSiTjU.jpg",
-      "youtube": "https://www.youtube.com/embed/ieEF6Mm4Y0w",
-      "imdbRating": "8",
-      "imdbVotes": "12621",
-      "rated": "PG-13",
-      "Country": "USA",
-      "tmdb": "661374",
-      "original": "Glass Onion: A Knives Out Mystery",
-      "tagline": "Novo mistério policial de Rian Johnson.",
-      "year": "2022",
-      "vote_average": "7.2",
-      "vote_count": "771",
-      "runtime": "2h, 20min",
-      "cast": "Daniel Craig, Edward Norton, Janelle Monáe, Kathryn Hahn, Leslie Odom Jr., Kate Hudson, Dave Bautista, Jessica Henwick, Madelyn Cline, Noah Segan,",
-      "dir": "Rian Johnson, Bruce Wayne Gillies, Josh Robertson, Sue Field, Manos Gasteratos, Danni Lizaitis, David Keadell, Edward Dorman,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/5zzxlsd13p-d660",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/VrkgBppW32sKr7d",
-          "type": "stream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
-      "title": "A Queda",
-      "autor": "1",
-      "post_id": "164241",
-      "description": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
-      "permalink": "https://supercine.tv/filmes/985939-a-queda/",
-      "homepage": "",
-      "category": "Lançamentos, Thriller",
-      "imdb": "tt15325794",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
-      "youtube": "https://www.youtube.com/embed/ub8oae2zmGw",
-      "imdbRating": "6.4",
-      "imdbVotes": "45490",
-      "rated": "PG-13",
-      "Country": "United Kingdom",
-      "tmdb": "985939",
-      "original": "Fall",
-      "tagline": "O terror alcança novas alturas",
-      "year": "2022",
-      "vote_average": "7.3",
-      "vote_count": "1894",
-      "runtime": "1h, 47min",
-      "cast": "Grace Caroline Currey, Virginia Gardner, Jeffrey Dean Morgan, Mason Gooding, Jasper Cole, Darrell Dennis, Julia Pace Mitchell,",
-      "dir": "Scott Mann,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/ZKkz170qB9Sqbwg",
-          "type": "stream"
-        },
-        {
-          "title": "DOODSTREAM",
-          "lang": "Dublado",
-          "url": "https://dood.to/e/gtpk8r4vsup1",
-          "type": "doodstream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
-      "title": "No Ar",
-      "autor": "1",
-      "post_id": "164216",
-      "description": "Um radialista recebe uma ligação ao vivo de um desconhecido que ameaça matar sua família. Para salvá-los, ele terá que participar de um jogo de sobrevivência e a única maneira de vencer é descobrir a identidade do criminoso.",
-      "permalink": "https://supercine.tv/filmes/979924-no-ar/",
-      "homepage": "",
-      "category": "Lançamentos, Thriller",
-      "imdb": "tt14824590",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/iBynixF4Yhelp6Pe6alO6GgBzWT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vTDsdu7RoaMQhvyL6073spQMjQW.jpg",
-      "youtube": "https://www.youtube.com/embed/mQ7Y1kXniB8",
-      "imdbRating": "5.4",
-      "imdbVotes": "3531",
-      "rated": "R",
-      "Country": "USA",
-      "tmdb": "979924",
-      "original": "On the Line",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "6.392",
-      "vote_count": "181",
-      "runtime": "1h, 44min",
-      "cast": "Mel Gibson, William Moseley, Alia Seror-O'Neill, Paul Spera, Kevin Dillon, Nadia Farès, Yoli Fuller, Yann Bean, Enrique Arce, Carole Weyers,",
-      "dir": "Romuald Boulanger,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/wwwxzbnk4-54025",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/O1kJG8qX7bCk6d",
-          "type": "stream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
-      "title": "Emancipação: Uma História de Liberdade",
-      "autor": "1",
-      "post_id": "164215",
-      "description": "Peter, um escravo em fuga é forçado a despistar caçadores implacáveis e os pântanos impiedosos da Louisiana numa tortuosa jornada em direção ao Norte.",
-      "permalink": "https://supercine.tv/filmes/715931-emancipacao-uma-historia-de-liberdade/",
-      "homepage": "",
-      "category": "Ação, Drama, História, Lançamentos, Thriller",
-      "imdb": "tt12530246",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/izTIOynukDcN9dp7uPlwBjHr8f5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ypFD4TJ3nLJesou76V59CnweaT0.jpg",
-      "youtube": "https://www.youtube.com/embed/lRwA1s8fj0o",
-      "imdbRating": "5.8",
-      "imdbVotes": "9159",
-      "rated": "R",
-      "Country": "USA",
-      "tmdb": "715931",
-      "original": "Emancipation",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "8.159",
-      "vote_count": "333",
-      "runtime": "2h, 12min",
-      "cast": "Will Smith, Ben Foster, Charmaine Bingwa, Steven Ogg, Gilbert Owuor, Mustafa Shakir, Grant Harvey, Ronnie Gene Blevins, Jayson Warner Smith, Jabbar Lewis,",
-      "dir": "Antoine Fuqua,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/m66p3h5d08y76wx",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/61y4rZZBzDUopl",
-          "type": "stream"
-        }
-      ]
-    },
-    {
-      "type": "movies",
+      "adult": false,
+      "backdrop_path": "/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 76600,
+      "original_language": "pt",
+      "original_title": "Avatar: O Caminho da Água",
+      "overview": "Situado mais de uma década após os eventos do primeiro filme, aprenda a história da família Sully (Jake, Neytiri e seus filhos), o problema que os segue, o quanto eles fazem para manter um ao outro seguro, as batalhas que travam. ",
+      "popularity": 2961.486,
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "release_date": "14/12/2022",
       "title": "Avatar: O Caminho da Água",
-      "autor": "1",
-      "post_id": "164214",
-      "description": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
-      "permalink": "https://supercine.tv/filmes/76600-avatar-o-caminho-da-agua/",
-      "homepage": "",
-      "category": "Ação, Aventura, Drama, Ficção científica, Lançamentos",
-      "imdb": "tt1630029",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/tnmdUnztAYbfJ0jhjpN6oxwP2sb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
-      "youtube": "https://www.youtube.com/embed/-cmwzbZ072U",
-      "imdbRating": "8.2",
-      "imdbVotes": "25532",
-      "rated": "PG-13",
-      "Country": "USA",
-      "tmdb": "76600",
-      "original": "Avatar: The Way of Water",
-      "tagline": "Aonde nós formos, esta família é a nossa fortaleza.",
-      "year": "2022",
-      "vote_average": "8.2",
-      "vote_count": "352",
-      "runtime": "3h, 12min",
-      "cast": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Kate Winslet, Cliff Curtis, Joel David Moore, CCH Pounder, Edie Falco, Brendan Cowell,",
-      "dir": "James Cameron, Garrett Warren, Richard Baneham, Simeon Jones, Maria Battle Campbell,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/m66p3h5k24wkyx0",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/OALJkBKjRmtGRj",
-          "type": "stream"
-        },
-        {
-          "title": "DOODSTREAM",
-          "lang": "Dublado",
-          "url": "https://dood.to/e/f515lrrtdrmm",
-          "type": "doodstream"
-        }
-      ]
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 4540
     },
     {
-      "type": "movies",
-      "title": "Era Uma Vez um Gênio",
-      "autor": "1",
-      "post_id": "164201",
-      "description": "Uma estudiosa solitária viaja para Istambul e descobre um Djinn que lhe oferece três desejos em troca de sua liberdade.",
-      "permalink": "https://supercine.tv/filmes/556694-era-uma-vez-um-genio/",
-      "homepage": "",
-      "category": "Drama, Fantasia, Lançamentos, Romance",
-      "imdb": "tt9198364",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bsr5We9ANx3zWQLE9JPjDl2JbiM.jpg",
-      "youtube": "https://www.youtube.com/embed/vowPkc-DZgY",
-      "imdbRating": "6.7",
-      "imdbVotes": "30616",
-      "rated": "R",
-      "Country": "Australia",
-      "tmdb": "556694",
-      "original": "Three Thousand Years of Longing",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "7",
-      "vote_count": "455",
-      "runtime": "1h, 48min",
-      "cast": "Tilda Swinton, Idris Elba, Ece Yüksel, Zerrin Tekindor, Erdil Yaşaroğlu, Lachy Hulme, Ogulcan Arman Uslu, Kaan Guldur, Alyla Browne, Nicola Mouawad,",
-      "dir": "George Miller, Jane Griffin, P.J. Voeten, Jackson Ezard, Guy Norris, Xander Collier,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/3rrelsmnx7jnkyp",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/D034P0jym2i31W",
-          "type": "stream"
-        },
-        {
-          "title": "DOODSTREAM",
-          "lang": "Dublado",
-          "url": "https://dood.to/e/817mazbc4uei",
-          "type": "doodstream"
-        }
-      ]
+      "adult": false,
+      "backdrop_path": "/5pMy5LF2JAleBNBtuzizfCMWM7k.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 653851,
+      "original_language": "pt",
+      "original_title": "Devoção",
+      "overview": "A angustiante história verdadeira de dois pilotos de caça de elite da Marinha dos EUA durante a Guerra da Coréia. ",
+      "popularity": 2344.009,
+      "poster_path": "/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",
+      "release_date": "2022-11-23",
+      "title": "Devoção",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 97
     },
     {
-      "type": "movies",
-      "title": "Exército do Amanhã",
-      "autor": "1",
-      "post_id": "164199",
-      "description": "Em um mundo pós-apocalíptico, a China presencia a queda de um meteorito infectado com uma planta mortal, então um grupo de homens da cidade atingida forma um esquadrão suicida para salvar a região de um colapso. No entanto, a situação se trata de uma ameaça alienígena vinda de criaturas poderosas que podem acabar com a humanidade, obrigando o soldado sobrevivente Tai Loi (Louis Koo) enfrentar seus piores medos.",
-      "permalink": "https://supercine.tv/filmes/518896-exercito-do-amanha/",
-      "homepage": "",
-      "category": "Ação, Drama, Ficção científica, Lançamentos",
-      "imdb": "tt7375466",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8ybdSPM1AutUK48gmMPOfu8TcyB.jpg",
-      "youtube": "https://www.youtube.com/embed/knh8QX8F36c",
-      "imdbRating": "6.1",
-      "imdbVotes": "847",
-      "rated": "Not Rated",
-      "Country": "Hong Kong",
-      "tmdb": "518896",
-      "original": "明日戰記",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "7.417",
-      "vote_count": "121",
-      "runtime": "1h, 41min",
-      "cast": "Louis Koo, Lau Ching-wan, Carina Lau, Philip Keung, Tse Kwan-Ho, Janice Wu, Wan Guopeng, Nick Cheung, Lau Ho-leung, Cheng Xiaoxia,",
-      "dir": "Ng Yuen-fai,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/1665lhjl24-lkxk",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/YPRjKbzg8wfvXk8",
-          "type": "stream"
-        },
-        {
-          "title": "DOODSTREAM",
-          "lang": "Dublado",
-          "url": "https://dood.to/e/5docoyv2lc8x",
-          "type": "doodstream"
-        }
-      ]
+      "adult": false,
+      "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 846433,
+      "original_language": "pt",
+      "original_title": "O Executor",
+      "overview": "Um thriller noir ambientado em Miami, o filme segue um executor que descobre que sua chefe femme fatale se ramificou no tráfico de sexo cibernético, colocando em risco um jovem fugitivo de quem fez amizade. ",
+      "popularity": 2329.449,
+      "poster_path": "/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+      "release_date": "2022-09-22",
+      "title": "O Executor",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 72
     },
     {
-      "type": "movies",
-      "title": "O Troll da Montanha",
-      "autor": "1",
-      "post_id": "164198",
-      "description": "Após ficar aprisionada por mil anos nas profundezas da montanha de Dovre, uma criatura gigantesca chega à superfície. Ela inicia uma jornada rumo à capital da Noruega, deixando destruição e caos em seu rastro. Um grupo de heróis se une para impedi-la. Mas como deter algo que deveria existir apenas no folclore norueguês?",
-      "permalink": "https://supercine.tv/filmes/736526-o-troll-da-montanha/",
-      "homepage": "",
-      "category": "Ação, Aventura, Fantasia, Lançamentos",
-      "imdb": "tt11116912",
-      "movie_quality": "",
-      "poster": "https://image.tmdb.org/t/p/w300/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/duIsyybgrC4S8kcCIVaxNOttV15.jpg",
-      "youtube": "https://www.youtube.com/embed/u8XFIfjkm1s",
-      "imdbRating": "7.2",
-      "imdbVotes": "18",
-      "rated": "Not Rated",
-      "Country": "NO",
-      "tmdb": "736526",
-      "original": "Troll",
-      "tagline": "",
-      "year": "2022",
-      "vote_average": "6.884",
-      "vote_count": "353",
-      "runtime": "1h, 43min",
-      "cast": "Ine Marie Wilmann, Kim S. Falck-Jørgensen, Mads Sjøgård Pettersen, Gard B. Eidsvold, Anneke von der Lippe, Fridtjov Såheim, Dennis Storhøi, Karoline Viktoria Sletteng Garvang, Yusuf Toosh Ibra, Bjarne Hjelde,",
-      "dir": "Roar Uthaug, Michael Pfleghar, Sascha Marden,",
-      "views_count": "",
-      "players": [
-        {
-          "title": "FEMBED",
-          "lang": "Dublado",
-          "url": "https://www.fembed.com/v/ezz-1s-pn7-dnnm",
-          "type": "fembed"
-        },
-        {
-          "title": "STREAM",
-          "lang": "Dublado",
-          "url": "https://streamtape.com/e/W6DedvXMPbCbBgX",
-          "type": "stream"
-        },
-        {
-          "title": "DOODSTREAM",
-          "lang": "Dublado",
-          "url": "https://dood.to/e/qxkzpfve68kn",
-          "type": "doodstream"
-        }
-      ]
+      "adult": false,
+      "backdrop_path": "/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        53
+      ],
+      "id": 899112,
+      "original_language": "pt",
+      "original_title": "noite violenta",
+      "overview": "Quando uma equipe de mercenários invade um complexo familiar rico na véspera de Natal, levando todos como reféns, a equipe não está preparada para um combatente surpresa: Papai Noel está no local e está prestes a mostrar por que esse Nick não é santo.",
+      "popularity": 1762.271,
+      "poster_path": "/1XSYOP0JjjyMz1irihvWywro82r.jpg",
+      "release_date": "30/11/2022",
+      "title": "noite violenta",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 995
     },
     {
-        "type": "movies",
-        "title": "Coisas de Meninos e Meninas",
-        "autor": "1",
-        "post_id": "164131",
-        "description": "Vizinhos desde criança, Woody e Nell não poderiam ser mais diferentes. Ela é estudiosa, ele é um atleta. Eles sempre pegaram um no pé do outro, até que um dia trocam de personalidade como em um passe de mágica. Muita confusão vai rolar até eles descobrirem como desfazer essa troca!",
-        "permalink": "https://supercine.tv/filmes/37725-coisas-de-meninos-e-meninas/",
-        "homepage": "",
-        "category": "Comédia, Fantasia, Romance",
-        "imdb": "tt0482527",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/4TgSSXmsJnPtqK81BwD0ZOcGK8y.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/ifqXkPSWYsJu2fz3l9bdHP8JcWQ.jpg",
-        "youtube": "https://www.youtube.com/embed/7uh2l0TQrdo",
-        "imdbRating": "6.2",
-        "imdbVotes": "41404",
-        "rated": "PG-13",
-        "Country": "Canada",
-        "tmdb": "37725",
-        "original": "It's a Boy Girl Thing",
-        "tagline": "‎Eles se transformaram nas coisas que mais odiavam... Um ou outro.‎",
-        "year": "2006",
-        "vote_average": "6.5",
-        "vote_count": "911",
-        "runtime": "1h, 35min",
-        "cast": "Kevin Zegers, Samaire Armstrong, Sherry Miller, Robert Joy, Sharon Osbourne, Maury Chaykin, Mpho Koaho, Emily Hampshire, Brooke D'Orsay, Genelle Williams,",
-        "dir": "Nick Hurran,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/411yeazme325qqq",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/ja1179Ro46czRww",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/71gb2vrnl2hw",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Como Agarrar um Milionário",
-        "autor": "1",
-        "post_id": "164129",
-        "description": "Schatze Page, Pola Debevoise e Loco Dempsey são três belas modelos que estão cansadas de namorar homens pobres. Elas armam um plano para conseguir maridos milionários, e para isso fingem ser ricas e alugam um elegante apartamento em Manhattan. Mas o plano começa a fracassar quando o dinheiro delas acaba e começam a se interessar por homens sem dinheiro.",
-        "permalink": "https://supercine.tv/filmes/10297-como-agarrar-um-milionario/",
-        "homepage": "",
-        "category": "Comédia, Romance",
-        "imdb": "tt0045891",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/ez1EJwqTs6uvHy9NztQHUlw3e5U.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/jK9f8HMPFilrHNeB51angpZMEwG.jpg",
-        "youtube": "https://www.youtube.com/embed/7Xdy2t0CfXU",
-        "imdbRating": "6.8",
-        "imdbVotes": "22931",
-        "rated": "Not Rated",
-        "Country": "USA",
-        "tmdb": "10297",
-        "original": "How to Marry a Millionaire",
-        "tagline": "O mais glamouroso entretenimento em CinemaScope. Pode ver sem óculos!",
-        "year": "1953",
-        "vote_average": "6.877",
-        "vote_count": "418",
-        "runtime": "1h, 35min",
-        "cast": "Lauren Bacall, Marilyn Monroe, Betty Grable, David Wayne, Rory Calhoun, Cameron Mitchell, Alexander D'Arcy, Fred Clark, William Powell, Percy Helton,",
-        "dir": "Jean Negulesco, Forrest E. Johnston,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/1665lhjemdy5j0n",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/r9wvbB9XvYsbwxz",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/9vc6cjged9cd",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Como Agarrar um Marido",
-        "autor": "1",
-        "post_id": "164128",
-        "description": "Steve Martin e Goldie Hawn são os protagonistas desta hilariante comédia romântica sobre as consequências de se \"esticar\" a verdade. Quando a namorada do arquitecto Newton Davis (Martin), Becky (Dana Delaney), rejeita a sua proposta de casamento, a sua casa de sonho, acabada de construir, subitamente transforma-se em nada mais que um monumento vazio da sua rejeição. Isto é, até que um encontro ocasional com Gwen (Hawn) lhe vira a vida ao contrário. É uma comédia deliciosa, ternurenta e inteligente, do realizador Frank Oz.",
-        "permalink": "https://supercine.tv/filmes/10407-como-agarrar-um-marido/",
-        "homepage": "",
-        "category": "Comédia, Romance",
-        "imdb": "tt0104452",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/nBh2GmDL3AA7Aaq3AsW1AyvMVLL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/vIzl2Elr9XDbxIBmOblgOFWQqIa.jpg",
-        "youtube": "https://www.youtube.com/embed/bNCG3EI_7N0",
-        "imdbRating": "6.1",
-        "imdbVotes": "25315",
-        "rated": "PG",
-        "Country": "USA",
-        "tmdb": "10407",
-        "original": "Housesitter",
-        "tagline": "Português",
-        "year": "1992",
-        "vote_average": "6.147",
-        "vote_count": "356",
-        "runtime": "1h, 42min",
-        "cast": "Steve Martin, Goldie Hawn, Dana Delany, Julie Harris, Donald Moffat, Peter MacNicol, Richard B. Shull, Laurel Cronin, Roy Cooper, Christopher Durang,",
-        "dir": "Frank Oz,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/ezz-1s-jzwwder1",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/GA2qqP122xT1vMD",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/f1odc9fm5144",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Como Roubar Um Milhão de Dólares",
-        "autor": "1",
-        "post_id": "164127",
-        "description": "Nicole Bonnet é a filha de um falsificador de obras de arte que pede a ajuda de Simon Dermott, um desconhecido que recentemente invadiu sua casa, para roubar uma estátua. O pedido é feito porque seu pai, Charles Bonnet, emprestou sua preciosa Venus de Cellini a um prestigiado museu de Paris e sem ler os documentos, autorizou exames que provem a autenticidade da obra. Infelizmente a Venus não foi esculpida por Cellini mas pelo avô de Nicole, um exímio falsificador de esculturas. Quando os testes forem feitos ficará claro que a obra é falsa, assim como todos os quadros que Charles vendeu serão testados de todas as formas e será comprovado que ele é um falsificador. Mas Nicole nem imagina quem é que a está ajudando nesse roubo quase impossível de ser realizado.",
-        "permalink": "https://supercine.tv/filmes/3001-como-roubar-um-milhao-de-dolares/",
-        "homepage": "",
-        "category": "Comédia, Crime",
-        "imdb": "tt0060522",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/75XRQP3w4pHRwaC9Yq3n34Y2Q9Y.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/u7kcxlHGC04rZoR3kfNlrzetELU.jpg",
-        "youtube": "https://www.youtube.com/embed/UPStHOzjQWU",
-        "imdbRating": "7.5",
-        "imdbVotes": "27856",
-        "rated": "Approved",
-        "Country": "USA",
-        "tmdb": "3001",
-        "original": "How to Steal a Million",
-        "tagline": "SSSHHHH - Conheça a dupla de ladrões inteligentes que dão uma lição de amor e roubo",
-        "year": "1966",
-        "vote_average": "7.5",
-        "vote_count": "470",
-        "runtime": "2h, 3min",
-        "cast": "Audrey Hepburn, Peter O'Toole, Eli Wallach, Hugh Griffith, Charles Boyer, Fernand Gravey, Marcel Dalio, Jacques Marin, Moustache, Roger Tréville,",
-        "dir": "William Wyler, Robert Swink, Paul Feyder,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/m66p3h5qmrr246j",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/ld1xwPl9dPH7MGv",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/vrx6ni2nuu0o",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Cinderela em Paris",
-        "autor": "1",
-        "post_id": "164126",
-        "description": "Um famoso fotógrafo de modas, Dick Avery (Fred Astaire), trabalha para a Quality Magazine, uma conceituada revista feminina. Dick cumpre as determinações da editora da revista, Maggie Prescott (Kay Thompson), que não está satisfeita com os últimos resultados e tenta encontrar \"um novo rosto\". Dick o acha em Jo Stockton (Audrey Hepburn), uma balconista de uma livraria no Greenwich Village onde um ensaio fotográfico ocorrera recentemente. Após certa resistência, Maggie aceita Jo como a modelo que irá à Paris para fotografar e ser o símbolo da Quality. Jo só concorda pois lá poderá conhecer Emile Flostre (Michel Auclair), um intelectual cujas ideias ela idolatra. Entretanto, ao chegarem em Paris as coisas não correm como o planejado.",
-        "permalink": "https://supercine.tv/filmes/13320-cinderela-em-paris/",
-        "homepage": "",
-        "category": "Comédia, Música, Romance",
-        "imdb": "tt0050419",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
-        "youtube": "https://www.youtube.com/embed/aY2EHAgqr6k",
-        "imdbRating": "7",
-        "imdbVotes": "30623",
-        "rated": "Not Rated",
-        "Country": "USA",
-        "tmdb": "13320",
-        "original": "Funny Face",
-        "tagline": "'S Wonderful! 'S Marvelous!",
-        "year": "1957",
-        "vote_average": "7",
-        "vote_count": "561",
-        "runtime": "1h, 43min",
-        "cast": "Audrey Hepburn, Fred Astaire, Kay Thompson, Michel Auclair, Robert Flemyng, Dovima, Suzy Parker, Sunny Hartnett, Jean Del Val, Virginia Gibson,",
-        "dir": "Stanley Donen, William McGarry,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/6qq8kh078mmzn-1",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/Akqq2Lz0DwTXL0j",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/pl00dx3ixgel",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Corações de Natal",
-        "autor": "1",
-        "post_id": "164111",
-        "description": "Com a saída do supervisor da unidade de tratamento intensivo, Jenny resolve promover uma grande despedida para o amigo, mas nem tudo sai como esperado.",
-        "permalink": "https://supercine.tv/filmes/421633-coracoes-de-natal/",
-        "homepage": "http://www.hallmarkmoviesandmysteries.com/hearts-of-christmas",
-        "category": "Cinema TV, Drama",
-        "imdb": "tt6321108",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/3sbUOiAWXkdmEhc3Ju5EEw1jWW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/sA3aLKMkb19LxOPHookhTAg4Jtb.jpg",
-        "youtube": "https://www.youtube.com/embed/lP419AYuFVE",
-        "imdbRating": "6.8",
-        "imdbVotes": "1693",
-        "rated": "TV-G",
-        "Country": "Canada",
-        "tmdb": "421633",
-        "original": "Hearts of Christmas",
-        "tagline": "",
-        "year": "2016",
-        "vote_average": "6.8",
-        "vote_count": "37",
-        "runtime": "1h, 27min",
-        "cast": "Emilie Ullerup, Kristoffer Polaha, Sharon Lawrence, Crystal Lowe, Nicholas Carella, Rachel Hayward, Bruce Dawson, Kimberley Sustad, Jay Hindle, Brendon Zub,",
-        "dir": "Monika Mitchell,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/1665lhjem8xyerd",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/2r1vPDM9XBiVgr",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/z7r4gdgdi5en",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Cowboy do Asfalto",
-        "autor": "1",
-        "post_id": "164109",
-        "description": "Homem recém-chegado ao Texas é seduzido pelo estilo de vida local. Lá ele se envolve com a bela dançarina Sissy e, para conquistar a moça, decide aprender a se tornar um cowboy moderno.",
-        "permalink": "https://supercine.tv/filmes/17496-cowboy-do-asfalto/",
-        "homepage": "",
-        "category": "Drama, Romance",
-        "imdb": "tt0081696",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/2uKWi1Hb6yqkmOixRgKVwrzxljA.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/m24fryajipEw8Za99cHP66HPaap.jpg",
-        "youtube": "https://www.youtube.com/embed/GySggLbBcI0",
-        "imdbRating": "6.4",
-        "imdbVotes": "15206",
-        "rated": "PG",
-        "Country": "USA",
-        "tmdb": "17496",
-        "original": "Urban Cowboy",
-        "tagline": "",
-        "year": "1980",
-        "vote_average": "6.443",
-        "vote_count": "212",
-        "runtime": "2h, 12min",
-        "cast": "John Travolta, Debra Winger, Scott Glenn, Madolyn Smith Osborne, Barry Corbin, Brooke Alderson, Cooper Huckabee, James Gammon, Mickey Gilley, Johnny Lee,",
-        "dir": "James Bridges, Karen Hale Wookey, Kim Kurumada, Albert M. Shapiro,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/kww0pb3peqrr-re",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/g2MjPVW12WsYkV",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/6f96aarfrx4i",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Como um Pai",
-        "autor": "1",
-        "post_id": "164107",
-        "description": "Clay é um virtuoso do trompete. Em dificuldades financeiras, é obrigado a dar aulas em uma escola problemática. Lá ele descobre o poder transformador da música, revelando o talento escondido de seus alunos.",
-        "permalink": "https://supercine.tv/filmes/219980-como-um-pai/",
-        "homepage": "https://www.hallmarkdrama.com/notes-from-dad",
-        "category": "Cinema TV, Família, Romance",
-        "imdb": "tt2202800",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/9Zymh56R76ciCrYCh3mTUfC2uiX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/4EeiXBhJVWsADKQojfxekF6uztu.jpg",
-        "youtube": "",
-        "imdbRating": "6.5",
-        "imdbVotes": "341",
-        "rated": "Not Rated",
-        "Country": "USA",
-        "tmdb": "219980",
-        "original": "Notes from Dad",
-        "tagline": "",
-        "year": "2013",
-        "vote_average": "6.063",
-        "vote_count": "8",
-        "runtime": "1h, 24min",
-        "cast": "Eddie Cibrian, Chris Sheffield, Josie Davis, Michael Beach, Travis Caldwell, Robert Bailey Jr., Priscilla Garita, Valentina de Angelis, Lauren Fray, Mike Grief,",
-        "dir": "Eriq La Salle, Dora Hopkins,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/jnndktdr3xx00z2",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/QWkXkWOb03i0ej4",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/5knc7i33qj1q",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Cupido: A Magia do Amor",
-        "autor": "1",
-        "post_id": "164106",
-        "description": "",
-        "permalink": "https://supercine.tv/filmes/77235-cupido-a-magia-do-amor/",
-        "homepage": "",
-        "category": "Drama, Família, Fantasia, Ficção científica, Romance",
-        "imdb": "tt1464606",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/wp9kvuKFQeJvUCz5oHmp2hTBiEO.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/1SBLDD8pNuo77gPoPb1pj2PihXk.jpg",
-        "youtube": "https://www.youtube.com/embed/tnQ94wuf9wU",
-        "imdbRating": "5.2",
-        "imdbVotes": "957",
-        "rated": "G",
-        "Country": "USA",
-        "tmdb": "77235",
-        "original": "You're So Cupid",
-        "tagline": "",
-        "year": "2010",
-        "vote_average": "6.184",
-        "vote_count": "76",
-        "runtime": "1h, 33min",
-        "cast": "Lauren Holly, Brian Krause, Jeremy Sumpter, Caitlin E.J. Meyer, Danielle C. Ryan, Amanda Gallo, Melise, Chad Hively, Jessica Jackson, Susan Phelan,",
-        "dir": "John Lyde,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/411yeazme4lpx-2",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/vWMMGdo2q8c4vgD",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/4i6e4m8y5ca8",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "Cuidado Com As Gêmeas",
-        "autor": "1",
-        "post_id": "164105",
-        "description": "Numa pacata cidade do interior americano, dois pares de gêmeas nascem na mesma hora. Mas a enfermeira se confunde e troca os bebês. Quarenta anos depois seus caminhos se cruzam no luxuoso Plaza Hotel em Nova York. O resultado é uma loucura total que vai fazer você rir como nunca.",
-        "permalink": "https://supercine.tv/filmes/12710-cuidado-com-as-gemeas/",
-        "homepage": "",
-        "category": "Comédia",
-        "imdb": "tt0094739",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/bII9aifgZkxvJFGVYDqRLcyRJLz.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/gDwJoKuK5Shp5YVRRMInYag3QLI.jpg",
-        "youtube": "https://www.youtube.com/embed/58yY53mjDxQ",
-        "imdbRating": "6.4",
-        "imdbVotes": "14372",
-        "rated": "PG",
-        "Country": "USA",
-        "tmdb": "12710",
-        "original": "Big Business",
-        "tagline": "Caos e diversão em dose dupla.",
-        "year": "1988",
-        "vote_average": "6.414",
-        "vote_count": "209",
-        "runtime": "1h, 37min",
-        "cast": "Bette Midler, Lily Tomlin, Fred Ward, Edward Herrmann, Michele Placido, Daniel Gerroll, Barry Primus, Michael Gross, Deborah Rush, Nicolas Coster,",
-        "dir": "Jim Abrahams,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/wwwxzbnez682pjg",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/mOyaoOAA88hQBL",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/9b5wslkzgo11",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "De Pernas pro Ar",
-        "autor": "1",
-        "post_id": "164103",
-        "description": "Alice é uma mulher workaholic que tenta se equilibrar entre a rotina do trabalho e a família. Depois de perder o emprego e o marido, Alice vai descobrir com a ajuda da vizinha Marcela que é possível ser uma profissional de sucesso sem deixar os prazeres da vida de lado. O filme discute com leveza e humor os deliciosos conflitos das mulheres modernas.",
-        "permalink": "https://supercine.tv/filmes/62156-de-pernas-pro-ar/",
-        "homepage": "",
-        "category": "Comédia",
-        "imdb": "tt1564916",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/8SNtshMPDMZhTcbiGtakOEJKljy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/ruseRsS1XTptLGX4f8YsFzNuvuZ.jpg",
-        "youtube": "https://www.youtube.com/embed/fhoaFA1kJXE",
-        "imdbRating": "5.6",
-        "imdbVotes": "2427",
-        "rated": "Not Rated",
-        "Country": "Brazil",
-        "tmdb": "62156",
-        "original": "De Pernas pro Ar",
-        "tagline": "Com a vida pelo avesso, ela só tinha uma saída: viver com prazer.",
-        "year": "2010",
-        "vote_average": "6.46",
-        "vote_count": "215",
-        "runtime": "1h, 36min",
-        "cast": "Ingrid Guimarães, Maria Paula, Bruno Garcia, Denise Weinberg, Antonio Pedro, Cristina Pereira, João Fernandes, Rodrigo Candelot, Flávio Pardal, Flávia Alessandra,",
-        "dir": "Hsu Chien Hsin, Roberto Santucci, Anita Barbosa, Natalia Soutto, Marcelo Antunez, Rodrigo Olliveira,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/qzzmdseljy1m5nw",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/e4OaJDwkoJFYbKA",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/6ghj0w5kz4ce",
-            "type": "doodstream"
-          }
-        ]
-      },
-      {
-        "type": "movies",
-        "title": "De Justin para Kelly",
-        "autor": "1",
-        "post_id": "164099",
-        "description": "Justin vai passar as férias na Flórida com amigos e conhece a garçonete Kelly. Ele se apaixona por ela quase de imediato, mas a ciumenta Alexa, amiga da moça, tenta mantê-los afastados.",
-        "permalink": "https://supercine.tv/filmes/31246-de-justin-para-kelly/",
-        "homepage": "",
-        "category": "Comédia, Romance",
-        "imdb": "tt0339034",
-        "movie_quality": "",
-        "poster": "https://image.tmdb.org/t/p/w300/bLLlgQ6nZPGxvAjp0qjTX1wD2hl.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w500/5ol4XVldim6cb3v7jKT4e2RdnjL.jpg",
-        "youtube": "https://www.youtube.com/embed/TpBZ31k-t3w",
-        "imdbRating": "1.9",
-        "imdbVotes": "26497",
-        "rated": "PG",
-        "Country": "USA",
-        "tmdb": "31246",
-        "original": "From Justin to Kelly",
-        "tagline": "",
-        "year": "2003",
-        "vote_average": "3.6",
-        "vote_count": "80",
-        "runtime": "1h, 30min",
-        "cast": "Kelly Clarkson, Justin Guarini, Brandon Henschel, Greg Siff, Brian Dietzen, Jason Yribar, Justin Gorence, Christopher Bryan, Yamil Piedra, Katherine Bailess,",
-        "dir": "Robert Iscove, Ilene Pickus,",
-        "views_count": "",
-        "players": [
-          {
-            "title": "FEMBED",
-            "lang": "Dublado",
-            "url": "https://www.fembed.com/v/y66geheypwx07e6",
-            "type": "fembed"
-          },
-          {
-            "title": "STREAM",
-            "lang": "Dublado",
-            "url": "https://streamtape.com/e/GJ7lxOdj8kF18Vr",
-            "type": "stream"
-          },
-          {
-            "title": "DOODSTREAM",
-            "lang": "Dublado",
-            "url": "https://dood.to/e/f22v86ftfhit",
-            "type": "doodstream"
-          }
-        ]
-      }
-  ]
+      "adult": false,
+      "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+      "genre_ids": [
+        14,
+        28,
+        878
+      ],
+      "id": 436270,
+      "original_language": "pt",
+      "original_title": "Adão Negro",
+      "overview": "Quase 5.000 anos depois de ter recebido os poderes onipotentes dos deuses egípcios - e aprisionado com a mesma rapidez - Black Adam é libertado de sua tumba terrestre, pronto para liberar sua forma única de justiça no mundo moderno.",
+      "popularity": 1607.935,
+      "poster_path": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+      "release_date": "2022-10-21",
+      "title": "Adão Negro",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 3837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 19995,
+      "original_language": "pt",
+      "original_title": "avatar",
+      "overview": "No século 22, um fuzileiro naval paraplégico é enviado para a lua Pandora em uma missão única, mas fica dividido entre seguir ordens e proteger uma civilização alienígena.",
+      "popularity": 1480.766,
+      "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "release_date": "15/12/2009",
+      "title": "avatar",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 27960
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12,
+        53
+      ],
+      "id": 736526,
+      "original_language": "não",
+      "original_title": "Provocador",
+      "overview": "Nas profundezas da montanha de Dovre, algo gigantesco desperta depois de ficar preso por mil anos. ",
+      "popularity": 1476,
+      "poster_path": "/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+      "release_date": "01/12/2022",
+      "title": "Provocador",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1051
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "id": 661374,
+      "original_language": "pt",
+      "original_title": "Cebola de vidro: um mistério de Knives Out",
+      "overview": "O detetive mundialmente famoso Benoit Blanc vai para a Grécia para desvendar as camadas de mistério que cercam um bilionário da tecnologia e sua eclética equipe de amigos.",
+      "popularity": 1343.432,
+      "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "release_date": "2022-11-23",
+      "title": "Cebola de vidro: um mistério de Knives Out",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 2906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7GmQKKAB3q3xkpxt1VFt2DrfviW.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 934287,
+      "original_language": "da",
+      "original_title": "Cliente",
+      "overview": "A renomada psicóloga Susanne (Signe Egholm Olsen) é pega em um pesadelo quando seu novo cliente (Anton Hjejle) acaba sendo um serial killer procurado.",
+      "popularity": 1261.87,
+      "poster_path": "/oUhZzMpHAMgdRgLbsvBIqhY7fKe.jpg",
+      "release_date": "2022-06-20",
+      "title": "o último cliente",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 505642,
+      "original_language": "pt",
+      "original_title": "Pantera Negra: Wakanda para sempre",
+      "overview": "A Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do Rei T'Challa. ",
+      "popularity": 1306.172,
+      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "release_date": "2022-11-09",
+      "title": "Pantera Negra: Wakanda para sempre",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1676
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tsjXBo4LmzV0Bb9hdrz25tzX5GD.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 1041513,
+      "original_language": "pt",
+      "original_title": "Encanto no Hollywood Bowl",
+      "overview": "Uma performance gravada do Encanto Live-to-Film Concert Experience no Hollywood Bowl. ",
+      "popularity": 1178.612,
+      "poster_path": "/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg",
+      "release_date": "2022-12-28",
+      "title": "Encanto no Hollywood Bowl",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/94kQGMiFbs5MUTlt7kj9dewsMDi.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 676547,
+      "original_language": "pt",
+      "original_title": "Presa para o diabo",
+      "overview": "Em resposta a um aumento global de possessões demoníacas, a Igreja Católica reabre escolas de exorcismo para treinar padres no Rito do Exorcismo. ",
+      "popularity": 1097.341,
+      "poster_path": "/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg",
+      "release_date": "2022-10-23",
+      "title": "Presa para o diabo",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWs0auTqn2UaFGfTKtUE5tlTeBu.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        14
+      ],
+      "id": 668482,
+      "original_language": "pt",
+      "original_title": "Matilda, o Musical de Roald Dahl",
+      "overview": "Uma jovem extraordinária descobre seu superpoder e convoca a coragem notável, contra todas as probabilidades, para ajudar os outros a mudar suas histórias, ao mesmo tempo em que assume o controle de seu próprio destino. ",
+      "popularity": 1091.57,
+      "poster_path": "/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+      "release_date": "2022-11-25",
+      "title": "Matilda, o Musical de Roald Dahl",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gkseI3CUfQtMKX41XD4AxDzhQb7.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 724495,
+      "original_language": "pt",
+      "original_title": "a mulher rei",
+      "overview": "A história da Agojie, a unidade feminina de guerreiras que protegeu o reino africano do Daomé em 1800 com habilidades e uma ferocidade diferente de tudo que o mundo já viu, e a General Nanisca enquanto ela treina a próxima geração de recrutas e os prepara ",
+      "popularity": 1149.926,
+      "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "release_date": "16/09/2022",
+      "title": "a mulher rei",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 1098
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rodjjIJ8oh9nuBp86PhojcYHTEN.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "id": 740952,
+      "original_language": "pt",
+      "original_title": "Salvação selvagem",
+      "overview": "Os recém-noivos Shelby John e Ruby Red querem um novo começo depois de suas lutas contra o vício, mas quando Shelby descobre sua amada Ruby morta em sua varanda, ele embarca em uma matança vingativa dos traficantes que a forneciam. ",
+      "popularity": 1075.887,
+      "poster_path": "/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
+      "release_date": "2022-12-02",
+      "title": "Salvação selvagem",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xOcwcyLM2lqXCrZG8AIHC8DXElF.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 943221,
+      "original_language": "es",
+      "original_title": "mal de ojo",
+      "overview": "Nala, uma menina de treze anos da cidade, viaja com sua família para a casa de sua avó no interior, para tentar encontrar uma cura para a misteriosa doença de sua irmã mais nova - Mas ela logo descobrirá que sua avó não é exatamente o que ",
+      "popularity": 959.595,
+      "poster_path": "/sChhX2wWgVbTd6j38ADrAfHd4mE.jpg",
+      "release_date": "2022-09-22",
+      "title": "mal de ojo",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Re7Q0qUgTWLBGP547yc8zKK5Sd.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 985335,
+      "original_language": "pt",
+      "original_title": "garota na janela",
+      "overview": "Uma adolescente problemática que está lutando para lidar com a morte acidental de seu pai suspeita que o misterioso assassino que persegue sua cidade natal não é apenas seu vizinho, mas o novo interesse romântico de sua mãe.",
+      "popularity": 946.961,
+      "poster_path": "/y8PhaJDd4YcYX7DVKJxoDwBUCZO.jpg",
+      "release_date": "18/08/2022",
+      "title": "garota na janela",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        27
+      ],
+      "id": 800815,
+      "original_language": "pt",
+      "original_title": "O Olho Azul Pálido",
+      "overview": "West Point, Nova York, 1830. Quando um cadete da florescente academia militar é encontrado enforcado com o coração arrancado, o alto escalão convoca o ex-policial da cidade de Nova York Augustus Landor para investigar. ",
+      "popularity": 926.521,
+      "poster_path": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "release_date": "2022-12-22",
+      "title": "O Olho Azul Pálido",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 810
+    }
+  ],
+  "total_pages": 36781,
+  "total_results": 735606
 }
